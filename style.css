@@ -3,3 +3,8 @@
 	margin: 0;
 	user-select: none;
 }
+.conteiner {
+    display: flex;
+    background: red;
+    box-shadow: 0em black;
+}
