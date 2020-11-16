@@ -4,7 +4,20 @@
 	user-select: none;
 }
 .conteiner {
+    justify-content: center;
     display: flex;
     background: red;
     box-shadow: 0em black;
+}
+.primeira {
+    height: 30px;
+    width: 20px;
+    background:forestgreen;
+}
+.centro {
+    background: whitesmoke;
+}
+.ultima-linha {
+
+    background: fuchsia;
 }
